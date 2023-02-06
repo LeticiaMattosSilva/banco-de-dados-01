@@ -1,7 +1,7 @@
 # Trabalho Individual de Banco de Dados - Módulo 4 📚
 
 <h2>📍Existem outras entidades além dessas três? </h2> </br>
-<p>R:Sim, existem.</p> </br>
+<p>R:Sim, existem. Como os funcionários da instituição e fornecedores de material por exemplo. </p> </br>
 <h2>📍Quais são os principais campos e tipos?</h2>
 <p>R: Na tabela Curso tem os campos ID curso, Tipo, Turmas, Disciplinas e Duração.</p> </br>
 <p>R: Na tabela Turma tem os campos ID Turma, Alunos, Professores, Material e sala.</p> </br>
